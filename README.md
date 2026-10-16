@@ -1,36 +1,34 @@
-# Marcelo Silva | Desenvolvedor de Software e Criador do COIR
+## Marcelo Silva
 
-Profissional de Tecnologia da Informação, com atuação na Polícia Federal e experiência em desenvolvimento de soluções voltadas à automação, ao processamento de dados e à análise de informações.
+Profissional de Tecnologia da Informação, desenvolvedor de software e criador do COIR — Controle de Operações e Imposto de Renda.
 
-Sou o criador e responsável pelo desenvolvimento e pela evolução do COIR (Contabilidade das Operações e Imposto de Renda), uma solução independente voltada à escrituração de operações realizadas na bolsa de valores brasileira e à apuração dos respectivos resultados e tributos.
+Atuo na Polícia Federal e desenvolvo soluções voltadas à automação de processos, ao processamento de dados e à resolução de problemas complexos por meio da tecnologia.
 
-## Projeto em destaque: COIR
+Sou também investidor na bolsa de valores há mais de 18 anos, experiência que contribuiu para a criação do COIR, projeto iniciado em 2017 para automatizar o controle de operações em renda variável e a apuração do Imposto de Renda.
 
-COIR — Contabilidade das Operações e Imposto de Renda
+## 🚀 COIR — Controle de Operações e Imposto de Renda
 
-Plataforma desenvolvida em Python para automatizar a extração, a organização e o processamento de dados de notas de corretagem da B3, com integração ao Excel para controle das operações e apuração do Imposto de Renda.
+Sistema desenvolvido em Python para automatizar a extração e o processamento de dados de notas de corretagem da B3, o controle de operações e a apuração de resultados e tributos.
 
-Principais funcionalidades
-- Renda variável: controle de operações nos mercados à vista, incluindo operações comuns e day trade.
-- Derivativos: processamento de operações com opções, contratos futuros e commodities.
-- Apuração tributária: cálculo de resultados, IRRF e imposto devido, com suporte à emissão de DARF.
-- Declaração anual: organização de informações para auxiliar no preenchimento da Declaração de Imposto de Renda da Pessoa Física (DIRPF).
-- Múltiplas corretoras: consolidação e controle de operações por CPF, com suporte a diferentes instituições financeiras.
+## Principais recursos:
+- Controle de operações nos mercados à vista, day trade, futuros, commodities e opções.
+- Processamento de notas de corretagem de diferentes instituições financeiras.
+- Cálculo de resultados, preço médio e impostos incidentes sobre as operações.
+- Apuração mensal do Imposto de Renda e suporte à emissão de DARF.
+- Organização de informações para auxiliar na elaboração da declaração anual de IRPF.
+- O projeto evoluiu de planilhas desenvolvidas em 2017 para uma solução automatizada com Python, incorporando novos mercados, funcionalidades e melhorias arquiteturais ao longo dos anos.
 
-## 🚀 Evolução do projeto
+Atualmente, o COIR está em evolução contínua, com modernização de sua arquitetura, utilização de banco de dados SQLite e aprimoramento dos mecanismos de extração e processamento de dados.
 
-O COIR surgiu em 2017, a partir de planilhas desenvolvidas para controlar operações e apurar o Imposto de Renda sobre investimentos em bolsa. Em 2021, o processo foi automatizado com Python e, em 2022, o sistema foi ampliado para contemplar novos mercados e instrumentos financeiros.
-Atualmente, o projeto passa por uma nova etapa de evolução, com modernização da arquitetura, adoção do SQLite como banco de dados e desenvolvimento de um mecanismo de extração mais integrado, buscando ampliar a eficiência, a consistência dos cálculos e a capacidade de manutenção do sistema.
-
-## 🔗 Links do projeto
-
+## 🔗 Repositório no GitHub
 🌐 [Site oficial do projeto](https://marcelopcf.github.io/COIR)
 
 💻 [Repositório no GitHub](https://github.com/MarceloPCF/COIR)
 
-## 🛠️ Tecnologias e ferramentas
+## 🛠️ Tecnologias
 
 Python · Excel · SQLite · Alembic · Git · GitHub
 
-## 📫 Contato
-LinkedIn: [in/marcelo-silva-30110133b](https://linkedin.com/in/marcelo-silva-30110133b)
+## 🎯 Interesses
+
+Desenvolvimento de software · Automação de processos · Engenharia de dados · Mercado financeiro · Investimentos · Sistemas de apuração tributária
